@@ -1,0 +1,6 @@
+framework module BXHFlexView {
+  umbrella header "BXHFlexView-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BXHFlexView_Example' do
+  pod 'BXHFlexView', :path => '../'
+
+  target 'BXHFlexView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

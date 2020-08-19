@@ -1,0 +1,22 @@
+{
+  "name": "BXHFlexView",
+  "version": "0.1.0",
+  "summary": "A short description of BXHFlexView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/baishuang/BXHFlexView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "baishuang": "baishuang@yit.com"
+  },
+  "source": {
+    "git": "https://github.com/baishuang/BXHFlexView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BXHFlexView/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - BXHFlexView (0.1.0)
+
+DEPENDENCIES:
+  - BXHFlexView (from `../`)
+
+EXTERNAL SOURCES:
+  BXHFlexView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BXHFlexView: 44fbea429a5890cbda45d00ef5536e41d6cfd001
+
+PODFILE CHECKSUM: 7b7aa8ee39f54afe2ab5dd9f2bebc2af1a0f95e8
+
+COCOAPODS: 1.9.3
